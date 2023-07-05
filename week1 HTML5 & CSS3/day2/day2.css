@@ -1,0 +1,43 @@
+body{
+    background-color: #cb92ff;
+    color: #ffff;
+    margin:auto;
+   text-transform: uppercase;
+}
+/*Float left nie działa 1x */
+#pBaner{
+    float:left;
+    font-family:sans-serif;
+   text-align: center;
+   font-size:60px;
+}
+
+#lBaner{
+    float: left;
+}
+
+h1{
+    font-family:serif;
+    color: #e4ffa7;
+    font-weight:lighter;
+}
+
+/*Float left nie działa 2x */
+#prawa,#lewa {
+    float:left;
+}
+
+.text{
+    text-align: left;
+    color: #e4ffa7;
+    margin:20px;    
+    font-size: 40px;
+}
+.text2{
+    font-size: 15px;
+    font-weight:lighter;
+}
+#footer{
+    clear:both;
+    text-transform: none;
+}
