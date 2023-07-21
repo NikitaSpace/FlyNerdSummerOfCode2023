@@ -1,0 +1,4 @@
+>>> wzrost=1.61
+>>> waga=48
+>>> BMI=(waga/wzrost**2)
+>>> BMI
